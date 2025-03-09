@@ -1,3 +1,4 @@
+
 <template><div id="pricing" class="block p-8 mt-40">
     <h1 class="text-2xl font-semibold text-center mb-8 font-merriweather">Choose a plan that works for you</h1>
   

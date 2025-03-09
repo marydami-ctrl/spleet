@@ -1,3 +1,4 @@
+
 <template>
      <div class="bg-blue-600 p-6 sm:p-8 w-11/12 sm:w-3/4 lg:w-1/2 mx-auto text-center rounded-lg shadow-lg mb-20">
   <div class="text-white space-y-4">

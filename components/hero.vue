@@ -1,3 +1,4 @@
+
 <template>
   <div class="flex flex-col lg:flex-row justify-between px-8 md:px-16 lg:px-20 items-center mb-11">
   <div class="block text-center lg:text-left">

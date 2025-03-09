@@ -1,3 +1,4 @@
+
 <template>
     <div class="bg-blue-700 p-10 md:p-20 mb-20">
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 w-full text-center">

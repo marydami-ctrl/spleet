@@ -1,3 +1,4 @@
+
 <template>
     <!-- footer -->
     <div class="bg-yellow-100 block p-10 mb-10">
