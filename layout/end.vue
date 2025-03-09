@@ -55,17 +55,3 @@
     </div>
   </template>
   
-  <script>
-  import { addIcons } from "oh-vue-icons";
-  import { LaFacebookF } from "oh-vue-icons/icons";
-  import { VIcon } from "oh-vue-icons";
-  
-  addIcons(LaFacebookF);
-  
-  export default {
-    components: {
-      VIcon,
-    },
-  };
-  </script>
-  
